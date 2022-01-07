@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="txt">
+                <p>The Text</p>
+    </div>
+    <div>Title</div><br>
+    <div id="let">
+        Addition of 2 Numbers
+    </div><br>
+    <div id="const">
+        Total marks
+    </div><br>
+    <p>The length of given string is </p>
+    <div id="String">
+    </div><br>
+    <div id="length">    </div><br>
+
+    <p>Car Brand Names after Slice :</p>
+    <div id="slice"></div>
+
+    <p>Color Names after Slice :</p>
+    <div id="colorslice"></div>
+
+    <p>Color Names after Splice :</p>
+    <p id="splice"></p>
+
+    <p>After POP:</p>
+    <div id="pop"></div>
+
+    <p>After PUSH:</p>
+    <div id="push"></div>
+
+    
+</body>
+<script src="main.js"></script><br><br>
+<p>*****End******</p>
+</html>
